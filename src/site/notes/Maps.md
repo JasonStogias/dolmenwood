@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/"}
+{"dg-publish":true,"permalink":"/maps/","tags":["gardenEntry"]}
 ---
 
 ## Dolmenwood Map
