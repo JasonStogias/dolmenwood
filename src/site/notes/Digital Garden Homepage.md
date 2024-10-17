@@ -19,5 +19,6 @@ This is the homepage of Dolmenwood
 | [[Dolmenwood/The Dolmenwood/Dolmenwood\|Dolmenwood]]                              |
 | [[Dolmenwood/The Dolmenwood/The Fey\|The Fey]]                                    |
 | [[Dolmenwood/The Dolmenwood/Calendar\|Calendar]]                                  |
+| [[Dolmenwood/Maps/Dolmenwood\|Dolmenwood]]                                        |
 
 { .block-language-dataview}
