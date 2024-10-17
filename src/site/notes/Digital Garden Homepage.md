@@ -7,7 +7,9 @@ This is the homepage of Dolmenwood
 | ------------------------------------------------------------------------------------ |
 | [[Dolmenwood/Backstories/The Tragedy of mx Whiskers\|The Tragedy of mx Whiskers]] |
 | [[Dolmenwood/Backstories/Ατ\|Ατ]]                                                 |
+| [[Dolmenwood/Calendar\|Calendar]]                                                 |
 | [[Dolmenwood/Hexes/0401\|0401]]                                                   |
+| [[Dolmenwood/Maps\|Maps]]                                                         |
 | [[Dolmenwood/NPCs/Factions\|Factions]]                                            |
 | [[Dolmenwood/NPCs/House Malbleat\|House Malbleat]]                                |
 | [[Dolmenwood/NPCs/House Ramius\|House Ramius]]                                    |
@@ -18,7 +20,5 @@ This is the homepage of Dolmenwood
 | [[Dolmenwood/Player Characters/Αθμυτος\|Αθμυτος]]                                 |
 | [[Dolmenwood/The Dolmenwood/Dolmenwood\|Dolmenwood]]                              |
 | [[Dolmenwood/The Dolmenwood/The Fey\|The Fey]]                                    |
-| [[Dolmenwood/Calendar\|Calendar]]                                                 |
-| [[Dolmenwood/Maps\|Maps]]                                                         |
 
 { .block-language-dataview}
