@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/dolmenwood/np-cs/house-ramius/"}
 ---
 
-
-
 Dignified  and shrewd. One of the ancient breggle noble houses, under the rulership of  
 Lord Shadgore Ramius.
 

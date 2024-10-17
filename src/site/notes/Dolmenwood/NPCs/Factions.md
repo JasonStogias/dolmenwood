@@ -3,7 +3,6 @@
 ---
 
 
-
 Here’s a comprehensive description of the main factions in Dolmenwood, detailing their histories, goals, and interrelationships:
 
 ### 1. The Duchy of Brackenwold  

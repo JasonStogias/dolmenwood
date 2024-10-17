@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/dolmenwood/places/castle-everdusk/"}
 ---
 
-
-
 ## Castle Everdusk
 
- Ancestral home of Lord Ramius (and of Lord Malbleat), most powerful of the longhorn nobles.
+ Ancestral home of [[Dolmenwood/NPCs/House Ramius\|Lord Ramius]] (and of [[Lord Malbleat\|Lord Malbleat]]), most powerful of the longhorn nobles.
  
 Castle Everdusk is a stone keep located deep in the tangled woods atop a steep, bare hill, which looms over a palisaded garrison at its base. The castle serves as the ancestral seat of House Ramius, long-established nobles who have ruled the High Wold for many generations. It is a place of austere architecture, surrounded by ancient towers and protected by a stockade of pine trunks emblazoned with the thorned eye emblem of House Ramius.
 

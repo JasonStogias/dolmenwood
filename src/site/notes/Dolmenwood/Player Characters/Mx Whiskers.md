@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/dolmenwood/player-characters/mx-whiskers/"}
 ---
 
-
-
 **Race**: [Grimalkin](https://www.dolmenwood.necroticgnome.com/rules/doku.php?id=grimalkin) 
 **Class**: [Enchanter](https://www.dolmenwood.necroticgnome.com/rules/doku.php?id=enchanter)  
 **Gender**: Unisex
