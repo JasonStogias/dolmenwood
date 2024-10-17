@@ -4,6 +4,8 @@
 
 ## Dolmenwood Map
 
+![Map.jpg](/img/user/Dolmenwood/Images/Map.jpg)
+
 ```leaflet
 
 id: Dolmenwood
