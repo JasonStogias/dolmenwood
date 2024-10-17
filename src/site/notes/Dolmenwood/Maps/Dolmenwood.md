@@ -4,9 +4,7 @@
 
 ## Dolmenwood Map
 
-[[Map.jpg]]
-
-![Map.jpg](/img/user/Dolmenwood/Images/Map.jpg)
+![Map.jpg|2600](/img/user/Dolmenwood/Images/Map.jpg)
 
 ```leaflet
 
