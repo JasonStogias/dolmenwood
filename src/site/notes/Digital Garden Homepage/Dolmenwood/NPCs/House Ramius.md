@@ -22,4 +22,4 @@ Servants: A standing army of shorthorns and humans, commanded by his sons (longh
 Location: Castle Everdusk (hex 0410)—ancestral home of  House Ramius (and of Lord Malbleat).  
 
 
-![Pasted image 20241012180110.png](/img/user/Digital%20Garden%20Homepage/Dolmenwood/Images/Pasted%20image%2020241012180110.png)![Pasted image 20241012180116.png](/img/user/Digital%20Garden%20Homepage/Dolmenwood/Images/Pasted%20image%2020241012180116.png)
+![Pasted image 20241012180110.png](/img/user/Digital%20Garden%20Homepage/Dolmenwood/Images-PDFs/Pasted%20image%2020241012180110.png)![Pasted image 20241012180116.png](/img/user/Digital%20Garden%20Homepage/Dolmenwood/Images-PDFs/Pasted%20image%2020241012180116.png)

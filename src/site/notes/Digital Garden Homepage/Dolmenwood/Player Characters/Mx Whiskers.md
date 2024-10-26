@@ -17,6 +17,12 @@ Mx Whiskers' posh family home was located in **Lankshorn**, a market town near t
 
 Lankshorn’s proximity to the deeper, wilder parts of Dolmenwood meant that Mx Whiskers grew up in a place where fairy tales and magical happenings were always close at hand, making it the perfect backdrop for the more whimsical stories of Knight At.
 
+As all cats in Dolmenwood, its goddess is [[Digital Garden Homepage/Dolmenwood/NPCs/Queen Abyssinia\|Queen Abyssinia]] of the [[Digital Garden Homepage/Dolmenwood/NPCs/Queen Abyssinia#The Realm of Catland\|Realm of Catland]] in Fairy.
 
 **Personality**:  
 Mx Whiskers is cautious and observant, always on the lookout for potential dangers, especially when it comes to food and substances. Though it has a sharp mind, its love of humor, shaped by the tales of At, keeps it grounded and playful. Mx Whiskers cares deeply for its companions, and while it uses its magic to protect them, it also approaches problems with a mix of practicality and wit.
+
+
+![[Mx Whiskers.pdf]]
+
+![[Enchanter.pdf]]![[Grimalkin 1.pdf]]
