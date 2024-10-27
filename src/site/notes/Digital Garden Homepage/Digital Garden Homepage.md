@@ -37,8 +37,9 @@ This is the homepage of Dolmenwood
 		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Mossling\|Mossling]]
 		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Mx Whiskers\|Mx Whiskers]]
 		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Άθμυτος Μάθσιν\|Άθμυτος Μάθσιν]]
-	- **[[Digital Garden Homepage/Dolmenwood/Rules/Rules\|Rules]]**
+	- **Rules**
 		- [[Digital Garden Homepage/Dolmenwood/Rules/Adventuring Gear - Armour and Weapons\|Adventuring Gear - Armour and Weapons]]
+		- [[Digital Garden Homepage/Dolmenwood/Rules/Online Rules Reference\|Online Rules Reference]]
 		- [[Digital Garden Homepage/Dolmenwood/Rules/Slot Based Encumbrance\|Slot Based Encumbrance]]
 	- **The Dolmenwood**
 		- [[Digital Garden Homepage/Dolmenwood/The Dolmenwood/Calendar\|Calendar]]
