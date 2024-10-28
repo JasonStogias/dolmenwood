@@ -6,6 +6,7 @@
 
 ![Map.jpg|2660](/img/user/Digital%20Garden%20Homepage/Dolmenwood/Images-PDFs/Map.jpg)
 
+
 ```leaflet
 
 id: Dolmenwood
