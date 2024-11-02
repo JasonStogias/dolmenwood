@@ -36,6 +36,7 @@ This is the homepage of Dolmenwood
 	- **Player Characters**
 		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Mossling\|Mossling]]
 		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Mx Whiskers\|Mx Whiskers]]
+		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Woodgrue\|Woodgrue]]
 		- [[Digital Garden Homepage/Dolmenwood/Player Characters/Άθμυτος Μάθσιν\|Άθμυτος Μάθσιν]]
 	- **Rules**
 		- [[Digital Garden Homepage/Dolmenwood/Rules/Adventuring Gear - Armour and Weapons\|Adventuring Gear - Armour and Weapons]]
