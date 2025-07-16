@@ -6,6 +6,8 @@
 **Class**: [Enchanter](https://www.dolmenwood.necroticgnome.com/rules/doku.php?id=enchanter)  
 **Gender**: Mx
 
+![[Mx Whiskers.pdf]]
+
 **Backstory**: 
 Mx Whiskers grew up in a wealthy, luxurious home somewhere in [[Digital Garden Homepage/Dolmenwood/05. Places/Fairy\|Fairy]], surrounded by love from its parents and siblings. Their life was comfortable, filled with laughter and the warmth of family. However, that happiness was shattered when Mx Whiskers' entire family tragically died after eating something toxic. The shock of this event changed Mx Whiskers' life forever. While others moved on, Mx Whiskers could never shake the feeling that something wasn’t right about the way their family died. Driven by grief and a fierce need to protect those it cares for, Mx Whiskers turned to the study of **enchantment magic**—a path that would allow it to manipulate the world, ward off danger, and ensure that such a tragedy never happened again.
 
