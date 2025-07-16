@@ -22,6 +22,8 @@ As all cats in Dolmenwood, its goddess is [[Digital Garden Homepage/Dolmenwood/0
 **Personality**:  
 Mx Whiskers is cautious and observant, always on the lookout for potential dangers, especially when it comes to food and substances. Though it has a sharp mind, its love of humor, shaped by the tales of At, keeps it grounded and playful. Mx Whiskers cares deeply for its companions, and while it uses its magic to protect them, it also approaches problems with a mix of practicality and wit.
 
+![Mx Whiskers.png](/img/user/Digital%20Garden%20Homepage/Dolmenwood/99.%20Images-PDFs/Mx%20Whiskers.png)
+
 ![Mx Whiskers_page-0001.jpg](/img/user/Digital%20Garden%20Homepage/Dolmenwood/99.%20Images-PDFs/Mx%20Whiskers_page-0001.jpg)
 
 ![Mx Whiskers_page-0002.jpg](/img/user/Digital%20Garden%20Homepage/Dolmenwood/99.%20Images-PDFs/Mx%20Whiskers_page-0002.jpg)

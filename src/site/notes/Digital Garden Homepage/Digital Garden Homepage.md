@@ -9,14 +9,17 @@ This is the homepage of Dolmenwood
 
 - **Dolmenwood**
 	- **00. Adventure**
-		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Intro\|Intro]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Intro Loutraki\|Intro Loutraki]]
 	- **01. Player Characters**
 		- **Backstories**
+			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Order of Saint Clothilde of the White Hound\|Order of Saint Clothilde of the White Hound]]
+			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Order of Saint Clotilde of the White Hound\|Order of Saint Clotilde of the White Hound]]
 			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/The Tragedy of mx Whiskers\|The Tragedy of mx Whiskers]]
 			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Ατ\|Ατ]]
 		- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Mossling\|Mossling]]
 		- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Mx Whiskers\|Mx Whiskers]]
 		- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Woodgrue\|Woodgrue]]
+		- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Αδελφός Οσβίνος Βατραχοφάγος\|Αδελφός Οσβίνος Βατραχοφάγος]]
 		- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Άθμυτος Μάθσιν\|Άθμυτος Μάθσιν]]
 	- **02. Rules**
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Adventuring Gear - Armour and Weapons\|Adventuring Gear - Armour and Weapons]]
