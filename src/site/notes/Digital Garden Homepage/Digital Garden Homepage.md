@@ -45,6 +45,7 @@ This is the homepage of Dolmenwood
 		- [[Digital Garden Homepage/Dolmenwood/06. Hexes/1508 - Castle Brackenwold\|1508 - Castle Brackenwold]]
 	- **98. The Dolmenwood**
 		- [[Digital Garden Homepage/Dolmenwood/98. The Dolmenwood/Calendar\|Calendar]]
+		- [[Digital Garden Homepage/Dolmenwood/98. The Dolmenwood/Complete Text\|Complete Text]]
 		- [[Digital Garden Homepage/Dolmenwood/98. The Dolmenwood/Dolmenwood\|Dolmenwood]]
 		- [[Digital Garden Homepage/Dolmenwood/98. The Dolmenwood/The Fey\|The Fey]]
 	- **99. Images-PDFs**
