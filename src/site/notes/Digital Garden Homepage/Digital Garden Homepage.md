@@ -10,7 +10,7 @@ This is the homepage of Dolmenwood
 - **Dolmenwood**
 	- **00. Adventure**
 		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/0,00 Intro Loutraki\|0,00 Intro Loutraki]]
-		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Session 1\|Session 1]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Sessions\|Sessions]]
 	- **01. Player Characters**
 		- **Backstories**
 			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Order of Saint Clothilde of the White Hound\|Order of Saint Clothilde of the White Hound]]
@@ -28,6 +28,7 @@ This is the homepage of Dolmenwood
 	- **03. Maps**
 		- [[Digital Garden Homepage/Dolmenwood/03. Maps/Dolmenwood Map\|Dolmenwood Map]]
 	- **04. NPCs**
+		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Campaign NPCs\|Campaign NPCs]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Factions\|Factions]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Harrowmoor\|House Harrowmoor]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Malbleat\|House Malbleat]]
