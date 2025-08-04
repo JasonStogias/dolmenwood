@@ -10,7 +10,7 @@ This is the homepage of Dolmenwood
 - **Dolmenwood**
 	- **00. Adventure**
 		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/0,00 Intro Loutraki\|0,00 Intro Loutraki]]
-		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Sessions\|Sessions]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 1\|Adventure 1]]
 	- **01. Player Characters**
 		- **Backstories**
 			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Order of Saint Clothilde of the White Hound\|Order of Saint Clothilde of the White Hound]]
