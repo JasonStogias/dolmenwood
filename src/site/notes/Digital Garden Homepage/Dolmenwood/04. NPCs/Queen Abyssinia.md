@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/queen-abyssinia/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/queen-abyssinia/","tags":["QueenAbyssinia","Catland"]}
 ---
 
 ## Queen Abyssinia

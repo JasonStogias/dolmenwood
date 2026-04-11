@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/06-hexes/0401-castle-everdusk/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/06-hexes/0401-castle-everdusk/","tags":["CastleEverdusk","Άθμυτος","HighWold"]}
 ---
 
 ## Castle Everdusk

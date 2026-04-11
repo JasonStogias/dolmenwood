@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/98-the-dolmenwood/calendar/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/98-the-dolmenwood/calendar/","tags":["Calendar"]}
 ---
 
 The 12 Months of the year in Dolmenwood

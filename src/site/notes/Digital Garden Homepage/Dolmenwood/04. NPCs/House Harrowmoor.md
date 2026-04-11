@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/house-harrowmoor/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/house-harrowmoor/","tags":["HouseHarrowmoor","LadyHarrowmoor"]}
 ---
 
 

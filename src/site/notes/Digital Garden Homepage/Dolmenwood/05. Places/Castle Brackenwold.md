@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/castle-brackenwold/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/castle-brackenwold/","tags":["CastleBrackenwold","Brackenwold","PluritineChurch"]}
 ---
 
 ## Capital of the Duchy of Brackenwold and seat of the duke

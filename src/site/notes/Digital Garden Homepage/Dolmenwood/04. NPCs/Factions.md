@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/factions/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/factions/","tags":["NagLord","Brackenwold","PluritineChurch","Drune","ColdPrince","Witches"]}
 ---
 
 
@@ -38,6 +38,9 @@ The Cold Prince is a powerful elf lord who once ruled over all of Dolmenwood fro
 - **The Witches**: Some witches may secretly support the Cold Prince’s return, hoping to gain favor or power in the process, though others view him as a rival or threat.  
 
 ### 5. The Nag-Lord  
+{ #ac150b}
+
+
 The Nag-Lord is a malevolent entity that rules from the corrupted northern woods of Dolmenwood, where his unholy court holds sway. He is often depicted in folklore as a wicked trickster, part man and part unicorn, with his court consisting of chaotic and corrupted creatures. His presence warps the land, causing blighted trees and twisted paths to proliferate in the north. The Nag-Lord seeks to spread his influence across all of Dolmenwood, opposing both the Duchy and other lawful powers.  
 
 **Relationships**:  

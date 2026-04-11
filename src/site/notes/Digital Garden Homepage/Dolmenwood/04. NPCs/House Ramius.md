@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/house-ramius/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/house-ramius/","tags":["HouseRamius","LordRamius"]}
 ---
 
 Dignified  and shrewd. One of the ancient breggle noble houses, under the rulership of  

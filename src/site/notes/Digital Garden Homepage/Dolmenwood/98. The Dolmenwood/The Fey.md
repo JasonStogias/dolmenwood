@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/98-the-dolmenwood/the-fey/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/98-the-dolmenwood/the-fey/","tags":["Fairy","Fay","Elf","ColdPrince"]}
 ---
 
 The **fay**, or **fae**, in Dolmenwood are mystical, otherworldly creatures native to the magical realm of Fairy. They exist parallel to the mortal world but frequently cross over into Dolmenwood, where the boundaries between realms are thin. Here's how you can explain them to your players:

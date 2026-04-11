@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/06-hexes/1508-castle-brackenwold/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/06-hexes/1508-castle-brackenwold/","tags":["Brackenwold","CastleBrackenwold","PluritineChurch","BishopofBrackenwold"]}
 ---
 
 

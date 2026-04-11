@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/house-malbleat/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/house-malbleat/","tags":["HouseMalbleat"]}
 ---
 
 Conniving and tyrannical. One of the ancient breggle noble houses, under the rulership of Lord Gryphius Malbleat.

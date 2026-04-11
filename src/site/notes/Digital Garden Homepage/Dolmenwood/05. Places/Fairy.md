@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/fairy/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/fairy/","tags":["Fairy","Elf","SeelieCourt","UnSeelieCourt","ColdPrince","HoarblightKeep"]}
 ---
 
 Η **Fairy**, γνωστή και ως η χώρα των Φέι, είναι ένας μαγικός, άχρονος κόσμος που υπάρχει παράλληλα με τον θνητό κόσμο. Είναι η φυσική κατοικία των νεραϊδών, των ξωτικών και άλλων μαγικών πλασμάτων, όπου οι νόμοι της φύσης και της πραγματικότητας είναι τελείως διαφορετικοί από αυτούς του κοινού κόσμου. Τα όρια ανάμεσα στη **Fairy** και το **Dolmenwood** είναι λεπτά, επιτρέποντας συχνές διαβάσεις, και μαγικές πύλες ή δρόμοι νεραϊδών μπορούν να μεταφέρουν ταξιδιώτες μεταξύ των δύο κόσμων.

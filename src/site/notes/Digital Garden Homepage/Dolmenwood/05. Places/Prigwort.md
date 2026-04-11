@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/prigwort/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/prigwort/","tags":["Prigwort","TheElevatedCouncilofBrewmasters","HangedLadleInn","LadyHarrowmoor"]}
 ---
 
-Famed brewing and market town in the heart of the Wood.
+Φημισμένη πόλη ζυθοποιίας και εμπορίου στην καρδιά του Δάσους.
 
-Situated in a hilly clearing in the deep woods, Prigwort is a market town famed for its breweries, inns, and taverns. 
+Χτισμένη σε ένα λοφώδες ξέφωτο βαθιά μέσα στα δάση, το Πρίγκγουορτ είναι μια εμπορική κωμόπολη, ξακουστή για τα ζυθοποιεία, τα πανδοχεία και τις ταβέρνες της.
 
-Within the confines of the town wall, twisting alleys and crooked stairways weave between quaint wooden cottages and high-gabled inns, all decorated with colourful, pseudo-heraldic imagery and elaborate wood carving.  
+Μέσα στα όρια του τείχους της πόλης, στριφτά σοκάκια και καμπυλωτές σκάλες πλέκονται ανάμεσα σε γραφικά ξύλινα σπιτάκια και πανδοχεία με ψηλές, αετωματικές στέγες, όλα διακοσμημένα με πολύχρωμα, ψευδο-εραλδικά μοτίβα και περίτεχνα ξυλόγλυπτα.
 
-Ruler: The Elevated Council of Brewmasters sees to the day-to-day running of Prigwort, as representatives of [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Harrowmoor\|Lady Harrowmoor]]. 
+Άρχοντες: [[Digital Garden Homepage/Dolmenwood/04. NPCs/The Elevated Council of Brewmasters\|Το Ανυψωμένο Συμβούλιο των Ζυθοποιών]] φροντίζει για την καθημερινή διοίκηση του Πρίγκγουορτ, ενεργώντας ως εκπρόσωποι της [[Οίκου Χάροουμουρ\|Λαίδης Χάροουμουρ]].
 
-Religion: It is said (by outsiders) that Prigwort folk glorify ale above all. In reality, it would be fair to say that the church and the tavern share equal space in their hearts
+Θρησκεία: Λέγεται (από τους ξένους) πως οι κάτοικοι του Πρίγκγουορτ δοξάζουν την μπύρα πάνω απ’ όλα. Στην πραγματικότητα, θα ήταν πιο δίκαιο να πει κανείς ότι η εκκλησία και η ταβέρνα κατέχουν ίση θέση στις καρδιές τους.
 
 ![Pasted image 20241026170135.png](/img/user/Digital%20Garden%20Homepage/Dolmenwood/99.%20Images-PDFs/Pasted%20image%2020241026170135.png)Map Key  
 1. Town Hall  

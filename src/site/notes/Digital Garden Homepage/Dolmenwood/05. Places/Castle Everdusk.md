@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/castle-everdusk/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/05-places/castle-everdusk/","tags":["LordRamius","HouseMalbleat","CastleEverdusk","HighWold"]}
 ---
 
 ## Castle Everdusk
