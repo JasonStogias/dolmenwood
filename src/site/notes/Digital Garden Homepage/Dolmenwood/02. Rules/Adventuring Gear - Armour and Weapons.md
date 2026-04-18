@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/adventuring-gear-armour-and-weapons/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/adventuring-gear-armour-and-weapons/","tags":["AdventuringGear","Armour","Weapons"]}
 ---
 
 ## Adventuring Gear - Armour and Weapons

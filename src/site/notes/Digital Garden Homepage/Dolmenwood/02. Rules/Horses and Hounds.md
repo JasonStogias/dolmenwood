@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/horses-and-hounds/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/horses-and-hounds/","tags":["Horses","Hounds"]}
 ---
 
 

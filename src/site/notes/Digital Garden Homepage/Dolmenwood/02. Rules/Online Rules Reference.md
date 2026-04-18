@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/online-rules-reference/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/online-rules-reference/","tags":["OnlineRulesReference"]}
 ---
 
 ## Online Rules Reference

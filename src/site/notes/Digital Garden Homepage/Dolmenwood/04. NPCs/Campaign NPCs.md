@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/campaign-np-cs/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/04-np-cs/campaign-np-cs/","tags":["NPCs","Τέλγριν","Μυκήθρα","Κοπρίων","Σκαρφίδα","NagLord"]}
 ---
 
 #### Τέλγριν το Ορφανό

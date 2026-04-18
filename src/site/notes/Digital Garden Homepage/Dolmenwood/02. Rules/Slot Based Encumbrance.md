@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/slot-based-encumbrance/"}
+{"dg-publish":true,"permalink":"/digital-garden-homepage/dolmenwood/02-rules/slot-based-encumbrance/","tags":["Encumberance"]}
 ---
 
 ## Slot Based Encumbrance
