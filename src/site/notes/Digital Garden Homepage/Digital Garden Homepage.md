@@ -9,10 +9,10 @@ This is the homepage of Dolmenwood
 
 - **Dolmenwood**
 	- **00. Adventure**
-		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/0,00 Intro Loutraki\|0,00 Intro Loutraki]]
-		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 0 - Solo Test\|Adventure 0 - Solo Test]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/0,00 Intro\|0,00 Intro]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 0 -\|Adventure 0 -]]
 		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 1 - Session 01 - 09.04.2026 - Το Στιφάδο που Περπατάει\|Adventure 1 - Session 01 - 09.04.2026 - Το Στιφάδο που Περπατάει]]
-		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 2 - Session 02 - XXXX - Το Γαστρονομικό Συνέδριο\|Adventure 2 - Session 02 - XXXX - Το Γαστρονομικό Συνέδριο]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 1 - Session 02 - 18.04.2026 - Το Γαστρονομικό Συνέδριο\|Adventure 1 - Session 02 - 18.04.2026 - Το Γαστρονομικό Συνέδριο]]
 	- **01. Player Characters**
 		- **Backstories**
 			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Order of Saint Clothilde of the White Hound\|Order of Saint Clothilde of the White Hound]]
