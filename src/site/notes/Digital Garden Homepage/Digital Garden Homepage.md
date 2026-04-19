@@ -46,6 +46,7 @@ This is the homepage of Dolmenwood
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Ramius\|House Ramius]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Queen Abyssinia\|Queen Abyssinia]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/The Elevated Council of Brewmasters\|The Elevated Council of Brewmasters]]
+		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Ακόλουθοι\|Ακόλουθοι]]
 	- **05. Places**
 		- [[Digital Garden Homepage/Dolmenwood/05. Places/Castle Brackenwold\|Castle Brackenwold]]
 		- [[Digital Garden Homepage/Dolmenwood/05. Places/Castle Everdusk\|Castle Everdusk]]
