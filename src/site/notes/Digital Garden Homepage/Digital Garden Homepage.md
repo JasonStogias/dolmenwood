@@ -31,6 +31,7 @@ This is the homepage of Dolmenwood
 	- **02. Rules**
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Adventuring Gear - Armour and Weapons\|Adventuring Gear - Armour and Weapons]]
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Common Fungy and Herbs\|Common Fungy and Herbs]]
+		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Encounters and Combat\|Encounters and Combat]]
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Horses and Hounds\|Horses and Hounds]]
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Lodgings - Food - Beverages - Pipeleaf\|Lodgings - Food - Beverages - Pipeleaf]]
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Online Rules Reference\|Online Rules Reference]]
