@@ -13,6 +13,7 @@ This is the homepage of Dolmenwood
 		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 0 -\|Adventure 0 -]]
 		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 1 - Session 01 - 09.04.2026 - Το Στιφάδο που Περπατάει\|Adventure 1 - Session 01 - 09.04.2026 - Το Στιφάδο που Περπατάει]]
 		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 1 - Session 02 - 18.04.2026 - Το Γαστρονομικό Συνέδριο\|Adventure 1 - Session 02 - 18.04.2026 - Το Γαστρονομικό Συνέδριο]]
+		- [[Digital Garden Homepage/Dolmenwood/00. Adventure/Adventure 1 - Session 03 - 26.04.2026 - Το Γαστρονομικό Συνέδριο 2\|Adventure 1 - Session 03 - 26.04.2026 - Το Γαστρονομικό Συνέδριο 2]]
 	- **01. Player Characters**
 		- **Backstories**
 			- [[Digital Garden Homepage/Dolmenwood/01. Player Characters/Backstories/Order of Saint Clothilde of the White Hound\|Order of Saint Clothilde of the White Hound]]
@@ -35,6 +36,7 @@ This is the homepage of Dolmenwood
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Online Rules Reference\|Online Rules Reference]]
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Slot Based Encumbrance\|Slot Based Encumbrance]]
 		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Specialist Services and Retainers\|Specialist Services and Retainers]]
+		- [[Digital Garden Homepage/Dolmenwood/02. Rules/Traveling\|Traveling]]
 	- **03. Maps**
 		- [[Digital Garden Homepage/Dolmenwood/03. Maps/Dolmenwood Map\|Dolmenwood Map]]
 		- [[Digital Garden Homepage/Dolmenwood/03. Maps/Prigwort Map\|Prigwort Map]]
@@ -44,6 +46,7 @@ This is the homepage of Dolmenwood
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Harrowmoor\|House Harrowmoor]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Malbleat\|House Malbleat]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/House Ramius\|House Ramius]]
+		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Lore NPCs\|Lore NPCs]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Queen Abyssinia\|Queen Abyssinia]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/The Elevated Council of Brewmasters\|The Elevated Council of Brewmasters]]
 		- [[Digital Garden Homepage/Dolmenwood/04. NPCs/Ακόλουθοι\|Ακόλουθοι]]
